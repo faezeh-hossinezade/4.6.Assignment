@@ -43,7 +43,7 @@ python Assignment465
 
 ## Assignment46-3
 
-![preview image](/output/spider-edge-detection.png)
+![preview image](/output/lion-edge-detection.png)
 
 ![preview image](/output/spider-edge-detection.png)
 
